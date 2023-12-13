@@ -5878,7 +5878,9 @@
     "/quantamagazine/archive": [],
     "/queshu/book/:bookid": [],
     "/queshu/sale": [],
-    "/questmobile/report/:category?/:label?": [],
+    "/questmobile/report/:industry?/:label?": [
+        "nczitzk"
+    ],
     "/quicker/qa/:category?/:state?": [
         "Cesaryuan",
         "nczitzk"
@@ -5939,6 +5941,9 @@
         "WhiteWorld",
         "nczitzk",
         "Fatpandac"
+    ],
+    "/readhub/daily": [
+        "nczitzk"
     ],
     "/remnote/changelog": [
         "TonyRL"
