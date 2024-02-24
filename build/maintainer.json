@@ -812,7 +812,8 @@
         "hoilc"
     ],
     "/bilibili/user/article/:uid": [
-        "lengthmin"
+        "lengthmin",
+        "Qixingchen"
     ],
     "/bilibili/user/bangumi/:uid/:type?": [
         "wdssmq"
@@ -1312,6 +1313,9 @@
     "/chuapp/index/:category?": [],
     "/chuhaibiji": [],
     "/cia/foia-annual-report": [],
+    "/cib/whpj/:format?": [
+        "Qixingchen"
+    ],
     "/ciidbnu/:id?": [
         "nczitzk"
     ],
@@ -3332,6 +3336,9 @@
     ],
     "/houxu/memory": [
         "nczitzk"
+    ],
+    "/howtoforge": [
+        "cnkmmk"
     ],
     "/hoyolab/news/:language/:gids/:type": [
         "ZenoTian"
@@ -5719,7 +5726,8 @@
         "nczitzk"
     ],
     "/remnote/changelog": [
-        "TonyRL"
+        "TonyRL",
+        "amakerlife"
     ],
     "/remote-work/:caty?": [],
     "/rescuetime/release-notes/:os?": [],
